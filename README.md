@@ -1,4 +1,4 @@
-# Create Your Own API
+# Deploy your own Machine Learning API
 
 For this project I created my own Machine learning model and deployed into its own API
 

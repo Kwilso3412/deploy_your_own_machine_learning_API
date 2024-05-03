@@ -18,7 +18,7 @@ api_router = APIRouter()
 API_KEY_NAME = "EYE-DISEASE-API-KEY"
 
 # API Key
-EYE_DISEASE_API_KEY = 'Cfoh1MsvhLPH-qDPxY6IhOGQNkBRKVp-L2-Lw8cjKeU'
+EYE_DISEASE_API_KEY = '[your API key]'
 
 # Load the model
 model = joblib.load('random_for_eye_dataset_model.joblib')

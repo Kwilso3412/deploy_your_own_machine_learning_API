@@ -1,4 +1,4 @@
-# Deploy your own Machine Learning API
+# [Deploy your own Machine Learning API](https://medium.com/@wilsonkai/deploy-your-own-machine-learning-api-5c179cf82017)
 
 For this project I created my own Machine learning model and deployed into its own API
 
